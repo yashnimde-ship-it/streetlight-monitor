@@ -1,5 +1,9 @@
 # Render Blueprint: one free web service serves both the API (/api) and the built React app.
 # Render dashboard → New → Blueprint → pick this repo. You will be asked for the values marked sync: false.
+#
+# Database: by default the service runs a temporary in-memory MongoDB and reseeds the full dataset on every
+# start (no external database needed; edits are lost on restart or when the free instance sleeps).
+# For persistent data, add MONGODB_URI (MongoDB Atlas) in the service's Environment settings; it takes precedence.
 services:
   - type: web
     name: streetlight-monitor
@@ -14,13 +18,13 @@ services:
         value: production
       - key: NODE_VERSION
         value: 22
-      - key: MONGODB_URI
-        sync: false # MongoDB Atlas connection string
+      - key: IN_MEMORY_DB
+        value: "true"
       - key: JWT_SECRET
         generateValue: true
       - key: JWT_EXPIRES_IN
         value: 1d
       - key: ADMIN_EMAIL
-        sync: false
+        value: admin@streetlight.local
       - key: ADMIN_PASSWORD
-        sync: false
+        sync: false # password for logging in to the live site

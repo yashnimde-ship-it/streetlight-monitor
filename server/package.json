@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "start": "node src/index.js",
+    "start": "node --max-old-space-size=128 src/index.js",
     "seed": "node src/scripts/seed.js",
     "build-data": "node src/scripts/build-corridor-data.js"
   },
@@ -25,9 +25,7 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^8.24.7",
     "multer": "^2.5.0",
-    "zod": "^3.25.76"
-  },
-  "devDependencies": {
+    "zod": "^3.25.76",
     "mongodb-memory-server": "^11.3.0"
   }
 }

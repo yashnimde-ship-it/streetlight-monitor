@@ -58,7 +58,7 @@ Every status change is written to a maintenance log, so each light has a complet
 | Security | **helmet**, **cors**, **express-rate-limit**, **compression** | Secure headers, origin restriction, login throttling, gzip |
 | File upload / CSV | **multer**, **csv-parse** | Bulk import of streetlight records |
 | Tooling | concurrently, VS Code, Git, GitHub | One command runs API and web app together |
-| Hosting | **Render** (one web service: API + web app), **MongoDB Atlas** (DB) | Free tiers; one URL |
+| Hosting | **Render** (one free web service: API + web app); in-memory MongoDB for the demo or **MongoDB Atlas** for persistence | Free; one URL |
 
 ---
 
@@ -321,9 +321,17 @@ Open **http://localhost:5173** and log in with the development account `admin@st
 
 The app deploys as **one free Render web service**: Express serves the API under `/api` and the built React app for every other path.
 
-1. **Database:** create a free **MongoDB Atlas** M0 cluster, add a database user, allow network access from `0.0.0.0/0` (Render's free tier has no fixed IP), and copy the connection string.
-2. **Render:** *New → Blueprint* → select this repository. [`render.yaml`](render.yaml) configures everything; Render asks for `MONGODB_URI`, `ADMIN_EMAIL` and `ADMIN_PASSWORD`, and generates `JWT_SECRET`.
-3. The first start seeds Atlas with the 36,039-light dataset (takes a minute or two), then the site is live at `https://<service>.onrender.com`.
+1. **Render:** *New → Blueprint* → select this repository. [`render.yaml`](render.yaml) configures everything; Render only asks for `ADMIN_PASSWORD` (the live-site login; email `admin@streetlight.local`) and generates `JWT_SECRET`.
+2. The site is live at `https://<service>.onrender.com` once the build finishes and the dataset has loaded.
+
+**Database modes**
+
+| Mode | How | Data |
+|---|---|---|
+| **Demo (default)** | `IN_MEMORY_DB=true`: the service runs its own temporary MongoDB and loads all 36,039 lights on every start | No external database or account needed; edits are lost on restart or when the free instance sleeps |
+| **Persistent** | Add `MONGODB_URI` (free **MongoDB Atlas** M0 cluster, network access `0.0.0.0/0`) in the service's *Environment* settings; it takes precedence | Edits are kept; seeded once on first start |
+
+The start command caps Node's heap at 128 MB so Node plus the in-memory MongoDB (≈ 380 MB measured) fit the free tier's 512 MB.
 
 | Setting | Value |
 |---|---|
