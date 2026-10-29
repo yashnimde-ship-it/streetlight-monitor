@@ -1,0 +1,7719 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-28T17:35:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 7897081917,
+  "lat": 19.1752206,
+  "lon": 72.9735530,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7897081918,
+  "lat": 19.1753038,
+  "lon": 72.9737109,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7897081919,
+  "lat": 19.1753942,
+  "lon": 72.9738886,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7897081920,
+  "lat": 19.1754687,
+  "lon": 72.9740374,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7897081921,
+  "lat": 19.1755433,
+  "lon": 72.9741680,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7897081922,
+  "lat": 19.1755857,
+  "lon": 72.9742344,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 7902691321,
+  "lat": 19.1749254,
+  "lon": 72.9742779,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 8176182673,
+  "lat": 19.1750285,
+  "lon": 72.9745584,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 8176204589,
+  "lat": 19.1748336,
+  "lon": 72.9743424,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 8176206561,
+  "lat": 19.1749462,
+  "lon": 72.9744705,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 8176210691,
+  "lat": 19.1750363,
+  "lon": 72.9746582,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 8176222373,
+  "lat": 19.1747979,
+  "lon": 72.9743005,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 9817653713,
+  "lat": 19.1451710,
+  "lon": 72.9879405,
+  "tags": {
+    "highway": "street_lamp",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 12376490322,
+  "lat": 18.9688154,
+  "lon": 73.0062575,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511159,
+  "lat": 18.9895789,
+  "lon": 72.9333099,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511160,
+  "lat": 18.9895572,
+  "lon": 72.9330008,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511161,
+  "lat": 18.9895234,
+  "lon": 72.9327070,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511162,
+  "lat": 18.9894944,
+  "lon": 72.9323851,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511163,
+  "lat": 18.9894581,
+  "lon": 72.9320811,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511164,
+  "lat": 18.9894316,
+  "lon": 72.9318026,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511165,
+  "lat": 18.9894050,
+  "lon": 72.9314935,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511166,
+  "lat": 18.9893760,
+  "lon": 72.9312048,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511167,
+  "lat": 18.9893470,
+  "lon": 72.9308855,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511168,
+  "lat": 18.9893084,
+  "lon": 72.9305457,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511169,
+  "lat": 18.9892866,
+  "lon": 72.9302825,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511170,
+  "lat": 18.9892528,
+  "lon": 72.9299734,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511171,
+  "lat": 18.9892238,
+  "lon": 72.9296796,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511172,
+  "lat": 18.9891803,
+  "lon": 72.9293449,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511173,
+  "lat": 18.9891634,
+  "lon": 72.9289898,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511174,
+  "lat": 18.9891199,
+  "lon": 72.9286551,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511175,
+  "lat": 18.9891054,
+  "lon": 72.9283920,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511176,
+  "lat": 18.9890813,
+  "lon": 72.9281672,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511177,
+  "lat": 18.9890475,
+  "lon": 72.9278631,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511178,
+  "lat": 18.9890112,
+  "lon": 72.9275361,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511179,
+  "lat": 18.9889943,
+  "lon": 72.9272474,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511180,
+  "lat": 18.9889726,
+  "lon": 72.9269562,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511181,
+  "lat": 18.9889291,
+  "lon": 72.9266368,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511182,
+  "lat": 18.9889049,
+  "lon": 72.9263277,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511183,
+  "lat": 18.9888639,
+  "lon": 72.9260160,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511184,
+  "lat": 18.9888421,
+  "lon": 72.9256430,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511185,
+  "lat": 18.9888131,
+  "lon": 72.9253697,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511186,
+  "lat": 18.9887890,
+  "lon": 72.9250401,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511187,
+  "lat": 18.9887576,
+  "lon": 72.9247744,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511188,
+  "lat": 18.9887044,
+  "lon": 72.9242124,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511189,
+  "lat": 18.9886706,
+  "lon": 72.9238853,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511190,
+  "lat": 18.9886440,
+  "lon": 72.9235966,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511191,
+  "lat": 18.9886102,
+  "lon": 72.9232773,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511192,
+  "lat": 18.9885836,
+  "lon": 72.9230090,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511193,
+  "lat": 18.9885522,
+  "lon": 72.9227127,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511194,
+  "lat": 18.9885257,
+  "lon": 72.9223933,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511195,
+  "lat": 18.9884991,
+  "lon": 72.9220868,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511196,
+  "lat": 18.9884677,
+  "lon": 72.9217828,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511197,
+  "lat": 18.9884363,
+  "lon": 72.9214864,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511198,
+  "lat": 18.9884097,
+  "lon": 72.9211926,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511199,
+  "lat": 18.9883952,
+  "lon": 72.9208835,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376511200,
+  "lat": 18.9883493,
+  "lon": 72.9205897,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543538,
+  "lat": 18.9689670,
+  "lon": 73.0060965,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543539,
+  "lat": 18.9711541,
+  "lon": 73.0033779,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543540,
+  "lat": 18.9709791,
+  "lon": 73.0036129,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543541,
+  "lat": 18.9707903,
+  "lon": 73.0038414,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543542,
+  "lat": 18.9706062,
+  "lon": 73.0040796,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543543,
+  "lat": 18.9704327,
+  "lon": 73.0043033,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543544,
+  "lat": 18.9702729,
+  "lon": 73.0045013,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543545,
+  "lat": 18.9700963,
+  "lon": 73.0047218,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543546,
+  "lat": 18.9699167,
+  "lon": 73.0049406,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543547,
+  "lat": 18.9697615,
+  "lon": 73.0051467,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543548,
+  "lat": 18.9696016,
+  "lon": 73.0053446,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543549,
+  "lat": 18.9694510,
+  "lon": 73.0055313,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543550,
+  "lat": 18.9693323,
+  "lon": 73.0056745,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543551,
+  "lat": 18.9691938,
+  "lon": 73.0058355,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543552,
+  "lat": 18.9690796,
+  "lon": 73.0059723,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543553,
+  "lat": 18.9713198,
+  "lon": 73.0031583,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543554,
+  "lat": 18.9715249,
+  "lon": 73.0028999,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543555,
+  "lat": 18.9717113,
+  "lon": 73.0026765,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543556,
+  "lat": 18.9720810,
+  "lon": 73.0021910,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543557,
+  "lat": 18.9718390,
+  "lon": 73.0024840,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543558,
+  "lat": 18.9722637,
+  "lon": 73.0019738,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543559,
+  "lat": 18.9724509,
+  "lon": 73.0017420,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543560,
+  "lat": 18.9726381,
+  "lon": 73.0015022,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543561,
+  "lat": 18.9728146,
+  "lon": 73.0012688,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543562,
+  "lat": 18.9729912,
+  "lon": 73.0010580,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543563,
+  "lat": 18.9731906,
+  "lon": 73.0007989,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543564,
+  "lat": 18.9733702,
+  "lon": 73.0005688,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543565,
+  "lat": 18.9735543,
+  "lon": 73.0003322,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543566,
+  "lat": 18.9736852,
+  "lon": 73.0001648,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543567,
+  "lat": 18.9738268,
+  "lon": 72.9999765,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543568,
+  "lat": 18.9739439,
+  "lon": 72.9998316,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543569,
+  "lat": 18.9740901,
+  "lon": 72.9996353,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543570,
+  "lat": 18.9742955,
+  "lon": 72.9993794,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543571,
+  "lat": 18.9744827,
+  "lon": 72.9991476,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543572,
+  "lat": 18.9746182,
+  "lon": 72.9989722,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543573,
+  "lat": 18.9747293,
+  "lon": 72.9988370,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543574,
+  "lat": 18.9748663,
+  "lon": 72.9986584,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543575,
+  "lat": 18.9750139,
+  "lon": 72.9984669,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543576,
+  "lat": 18.9751904,
+  "lon": 72.9982480,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543577,
+  "lat": 18.9753624,
+  "lon": 72.9980114,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543578,
+  "lat": 18.9755009,
+  "lon": 72.9978456,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543579,
+  "lat": 18.9757277,
+  "lon": 72.9975511,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543580,
+  "lat": 18.9759134,
+  "lon": 72.9973113,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543581,
+  "lat": 18.9761036,
+  "lon": 72.9970844,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543582,
+  "lat": 18.9762862,
+  "lon": 72.9968542,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543583,
+  "lat": 18.9764795,
+  "lon": 72.9965919,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543584,
+  "lat": 18.9766500,
+  "lon": 72.9963762,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543585,
+  "lat": 18.9768357,
+  "lon": 72.9961332,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543586,
+  "lat": 18.9770152,
+  "lon": 72.9959063,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543587,
+  "lat": 18.9772131,
+  "lon": 72.9956504,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543588,
+  "lat": 18.9773851,
+  "lon": 72.9954379,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543589,
+  "lat": 18.9775677,
+  "lon": 72.9951997,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543590,
+  "lat": 18.9777686,
+  "lon": 72.9949390,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543591,
+  "lat": 18.9779512,
+  "lon": 72.9947040,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543592,
+  "lat": 18.9781247,
+  "lon": 72.9944771,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543593,
+  "lat": 18.9782952,
+  "lon": 72.9942421,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543594,
+  "lat": 18.9785235,
+  "lon": 72.9939669,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543595,
+  "lat": 18.9786879,
+  "lon": 72.9937481,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543596,
+  "lat": 18.9788492,
+  "lon": 72.9935340,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543597,
+  "lat": 18.9790318,
+  "lon": 72.9933071,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543598,
+  "lat": 18.9792114,
+  "lon": 72.9930673,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543599,
+  "lat": 18.9793864,
+  "lon": 72.9928500,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376543600,
+  "lat": 18.9795554,
+  "lon": 72.9926231,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551501,
+  "lat": 18.9797593,
+  "lon": 72.9923704,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551502,
+  "lat": 18.9799389,
+  "lon": 72.9921225,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551503,
+  "lat": 18.9801154,
+  "lon": 72.9918843,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551504,
+  "lat": 18.9802935,
+  "lon": 72.9916623,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551505,
+  "lat": 18.9804883,
+  "lon": 72.9914160,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551506,
+  "lat": 18.9806618,
+  "lon": 72.9911859,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551507,
+  "lat": 18.9808535,
+  "lon": 72.9909348,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551508,
+  "lat": 18.9810270,
+  "lon": 72.9907288,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551509,
+  "lat": 18.9812249,
+  "lon": 72.9904729,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551510,
+  "lat": 18.9814025,
+  "lon": 72.9902334,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551511,
+  "lat": 18.9815744,
+  "lon": 72.9900056,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551512,
+  "lat": 18.9817608,
+  "lon": 72.9897800,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551513,
+  "lat": 18.9819182,
+  "lon": 72.9895654,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551514,
+  "lat": 18.9821191,
+  "lon": 72.9893070,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551515,
+  "lat": 18.9823138,
+  "lon": 72.9890376,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551516,
+  "lat": 18.9825105,
+  "lon": 72.9887923,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551517,
+  "lat": 18.9826783,
+  "lon": 72.9885908,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551518,
+  "lat": 18.9828501,
+  "lon": 72.9883565,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551519,
+  "lat": 18.9830324,
+  "lon": 72.9881331,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551520,
+  "lat": 18.9832146,
+  "lon": 72.9878856,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551521,
+  "lat": 18.9834031,
+  "lon": 72.9876644,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551522,
+  "lat": 18.9835853,
+  "lon": 72.9874169,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551523,
+  "lat": 18.9837614,
+  "lon": 72.9871673,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551524,
+  "lat": 18.9839229,
+  "lon": 72.9869483,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551525,
+  "lat": 18.9840927,
+  "lon": 72.9867139,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551526,
+  "lat": 18.9842957,
+  "lon": 72.9864664,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551527,
+  "lat": 18.9844717,
+  "lon": 72.9862343,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551528,
+  "lat": 18.9846457,
+  "lon": 72.9859890,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551529,
+  "lat": 18.9848176,
+  "lon": 72.9857503,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551530,
+  "lat": 18.9849936,
+  "lon": 72.9854831,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551531,
+  "lat": 18.9851924,
+  "lon": 72.9851984,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551532,
+  "lat": 18.9853871,
+  "lon": 72.9848983,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551533,
+  "lat": 18.9855445,
+  "lon": 72.9846772,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551534,
+  "lat": 18.9857412,
+  "lon": 72.9843749,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376551535,
+  "lat": 18.9858779,
+  "lon": 72.9841669,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554068,
+  "lat": 18.9859978,
+  "lon": 72.9839773,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554069,
+  "lat": 18.9861168,
+  "lon": 72.9837952,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554070,
+  "lat": 18.9862286,
+  "lon": 72.9835961,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554071,
+  "lat": 18.9863511,
+  "lon": 72.9833934,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554072,
+  "lat": 18.9864807,
+  "lon": 72.9831887,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554073,
+  "lat": 18.9866103,
+  "lon": 72.9829747,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554074,
+  "lat": 18.9867612,
+  "lon": 72.9827269,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554075,
+  "lat": 18.9868908,
+  "lon": 72.9824922,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554076,
+  "lat": 18.9870541,
+  "lon": 72.9822012,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554077,
+  "lat": 18.9871997,
+  "lon": 72.9819459,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554078,
+  "lat": 18.9873417,
+  "lon": 72.9816755,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554079,
+  "lat": 18.9874944,
+  "lon": 72.9813977,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554080,
+  "lat": 18.9876258,
+  "lon": 72.9811405,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554081,
+  "lat": 18.9877678,
+  "lon": 72.9808758,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554082,
+  "lat": 18.9878921,
+  "lon": 72.9806167,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554083,
+  "lat": 18.9880021,
+  "lon": 72.9804008,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554084,
+  "lat": 18.9881300,
+  "lon": 72.9801229,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554085,
+  "lat": 18.9882809,
+  "lon": 72.9798169,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554086,
+  "lat": 18.9884193,
+  "lon": 72.9795465,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554087,
+  "lat": 18.9885365,
+  "lon": 72.9792706,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554088,
+  "lat": 18.9886572,
+  "lon": 72.9789871,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554089,
+  "lat": 18.9887833,
+  "lon": 72.9787111,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554090,
+  "lat": 18.9889004,
+  "lon": 72.9784257,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554091,
+  "lat": 18.9890158,
+  "lon": 72.9781629,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554092,
+  "lat": 18.9891223,
+  "lon": 72.9778775,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554093,
+  "lat": 18.9892395,
+  "lon": 72.9775940,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554094,
+  "lat": 18.9893531,
+  "lon": 72.9773237,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554095,
+  "lat": 18.9894525,
+  "lon": 72.9770383,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554096,
+  "lat": 18.9895626,
+  "lon": 72.9767510,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554097,
+  "lat": 18.9896585,
+  "lon": 72.9764732,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554098,
+  "lat": 18.9897561,
+  "lon": 72.9761765,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554099,
+  "lat": 18.9898608,
+  "lon": 72.9759043,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376554100,
+  "lat": 18.9899638,
+  "lon": 72.9756114,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568401,
+  "lat": 18.9900437,
+  "lon": 72.9753092,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568402,
+  "lat": 18.9901484,
+  "lon": 72.9750257,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568403,
+  "lat": 18.9902319,
+  "lon": 72.9747347,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568404,
+  "lat": 18.9903206,
+  "lon": 72.9744474,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568405,
+  "lat": 18.9904005,
+  "lon": 72.9741583,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568406,
+  "lat": 18.9904822,
+  "lon": 72.9738767,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568407,
+  "lat": 18.9905656,
+  "lon": 72.9735707,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568408,
+  "lat": 18.9906455,
+  "lon": 72.9732891,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568409,
+  "lat": 18.9907147,
+  "lon": 72.9729962,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568410,
+  "lat": 18.9907946,
+  "lon": 72.9726864,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568411,
+  "lat": 18.9908692,
+  "lon": 72.9724048,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568412,
+  "lat": 18.9909473,
+  "lon": 72.9721044,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568413,
+  "lat": 18.9910076,
+  "lon": 72.9718078,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568414,
+  "lat": 18.9910822,
+  "lon": 72.9715111,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568415,
+  "lat": 18.9911514,
+  "lon": 72.9712201,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568416,
+  "lat": 18.9912065,
+  "lon": 72.9709197,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568417,
+  "lat": 18.9912668,
+  "lon": 72.9706400,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568418,
+  "lat": 18.9913201,
+  "lon": 72.9703265,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568419,
+  "lat": 18.9913769,
+  "lon": 72.9700242,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568420,
+  "lat": 18.9914266,
+  "lon": 72.9697295,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568421,
+  "lat": 18.9914763,
+  "lon": 72.9694291,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568422,
+  "lat": 18.9915242,
+  "lon": 72.9691193,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568423,
+  "lat": 18.9915828,
+  "lon": 72.9688320,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568424,
+  "lat": 18.9916254,
+  "lon": 72.9685486,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568425,
+  "lat": 18.9916734,
+  "lon": 72.9682294,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568426,
+  "lat": 18.9917106,
+  "lon": 72.9679290,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568427,
+  "lat": 18.9917461,
+  "lon": 72.9676230,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568428,
+  "lat": 18.9917728,
+  "lon": 72.9673170,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568429,
+  "lat": 18.9918118,
+  "lon": 72.9670166,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568430,
+  "lat": 18.9918420,
+  "lon": 72.9667124,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568431,
+  "lat": 18.9918811,
+  "lon": 72.9664083,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568432,
+  "lat": 18.9919041,
+  "lon": 72.9661098,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568433,
+  "lat": 18.9919290,
+  "lon": 72.9658038,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568434,
+  "lat": 18.9919521,
+  "lon": 72.9655071,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568435,
+  "lat": 18.9919663,
+  "lon": 72.9652405,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568436,
+  "lat": 18.9919893,
+  "lon": 72.9649026,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568437,
+  "lat": 18.9920089,
+  "lon": 72.9645928,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568438,
+  "lat": 18.9920249,
+  "lon": 72.9643112,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568439,
+  "lat": 18.9920355,
+  "lon": 72.9640878,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568440,
+  "lat": 18.9920408,
+  "lon": 72.9638193,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568441,
+  "lat": 18.9920515,
+  "lon": 72.9635471,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568442,
+  "lat": 18.9920568,
+  "lon": 72.9633368,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568443,
+  "lat": 18.9920497,
+  "lon": 72.9630871,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568444,
+  "lat": 18.9920657,
+  "lon": 72.9628412,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568445,
+  "lat": 18.9920639,
+  "lon": 72.9625483,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568446,
+  "lat": 18.9920586,
+  "lon": 72.9622667,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568447,
+  "lat": 18.9920550,
+  "lon": 72.9618499,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568448,
+  "lat": 18.9920515,
+  "lon": 72.9614988,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568449,
+  "lat": 18.9920373,
+  "lon": 72.9611909,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568450,
+  "lat": 18.9920266,
+  "lon": 72.9608680,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568451,
+  "lat": 18.9920124,
+  "lon": 72.9605657,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568452,
+  "lat": 18.9920000,
+  "lon": 72.9602785,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568453,
+  "lat": 18.9919858,
+  "lon": 72.9599837,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568454,
+  "lat": 18.9919769,
+  "lon": 72.9596627,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568455,
+  "lat": 18.9919467,
+  "lon": 72.9593492,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568456,
+  "lat": 18.9919308,
+  "lon": 72.9590206,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568457,
+  "lat": 18.9919059,
+  "lon": 72.9587747,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568458,
+  "lat": 18.9918704,
+  "lon": 72.9584461,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568459,
+  "lat": 18.9918331,
+  "lon": 72.9581607,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568460,
+  "lat": 18.9918154,
+  "lon": 72.9578472,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568461,
+  "lat": 18.9917870,
+  "lon": 72.9575581,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568462,
+  "lat": 18.9917497,
+  "lon": 72.9572483,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568463,
+  "lat": 18.9917302,
+  "lon": 72.9569517,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568464,
+  "lat": 18.9916953,
+  "lon": 72.9566499,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568465,
+  "lat": 18.9916669,
+  "lon": 72.9563439,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568466,
+  "lat": 18.9916438,
+  "lon": 72.9560623,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568467,
+  "lat": 18.9916154,
+  "lon": 72.9557844,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568468,
+  "lat": 18.9915923,
+  "lon": 72.9554428,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568469,
+  "lat": 18.9915550,
+  "lon": 72.9551367,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568470,
+  "lat": 18.9915000,
+  "lon": 72.9545435,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568471,
+  "lat": 18.9915337,
+  "lon": 72.9548251,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568472,
+  "lat": 18.9914698,
+  "lon": 72.9542149,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568473,
+  "lat": 18.9914343,
+  "lon": 72.9538976,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568474,
+  "lat": 18.9914148,
+  "lon": 72.9535935,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568475,
+  "lat": 18.9913864,
+  "lon": 72.9533044,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568476,
+  "lat": 18.9913597,
+  "lon": 72.9530096,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568477,
+  "lat": 18.9913189,
+  "lon": 72.9527073,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568478,
+  "lat": 18.9912994,
+  "lon": 72.9523825,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568479,
+  "lat": 18.9912763,
+  "lon": 72.9520878,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568480,
+  "lat": 18.9912479,
+  "lon": 72.9518043,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568481,
+  "lat": 18.9912266,
+  "lon": 72.9514983,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568482,
+  "lat": 18.9911964,
+  "lon": 72.9511979,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568483,
+  "lat": 18.9911662,
+  "lon": 72.9508900,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568484,
+  "lat": 18.9911290,
+  "lon": 72.9505783,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568485,
+  "lat": 18.9911077,
+  "lon": 72.9502742,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568486,
+  "lat": 18.9910899,
+  "lon": 72.9500226,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568487,
+  "lat": 18.9910580,
+  "lon": 72.9497260,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568488,
+  "lat": 18.9910349,
+  "lon": 72.9494087,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568489,
+  "lat": 18.9910118,
+  "lon": 72.9491008,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568490,
+  "lat": 18.9909923,
+  "lon": 72.9488286,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568491,
+  "lat": 18.9909568,
+  "lon": 72.9485282,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568492,
+  "lat": 18.9909355,
+  "lon": 72.9482240,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568493,
+  "lat": 18.9909071,
+  "lon": 72.9479255,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568494,
+  "lat": 18.9908787,
+  "lon": 72.9476139,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568495,
+  "lat": 18.9908538,
+  "lon": 72.9473191,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568496,
+  "lat": 18.9908325,
+  "lon": 72.9470394,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568497,
+  "lat": 18.9908094,
+  "lon": 72.9467390,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568498,
+  "lat": 18.9907810,
+  "lon": 72.9464273,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568499,
+  "lat": 18.9907562,
+  "lon": 72.9461457,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568500,
+  "lat": 18.9907331,
+  "lon": 72.9458247,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568501,
+  "lat": 18.9906958,
+  "lon": 72.9455356,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568502,
+  "lat": 18.9906781,
+  "lon": 72.9452521,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568503,
+  "lat": 18.9906425,
+  "lon": 72.9449705,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568504,
+  "lat": 18.9906141,
+  "lon": 72.9446156,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568505,
+  "lat": 18.9905644,
+  "lon": 72.9443058,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568506,
+  "lat": 18.9905431,
+  "lon": 72.9440055,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568507,
+  "lat": 18.9905147,
+  "lon": 72.9437182,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568508,
+  "lat": 18.9904970,
+  "lon": 72.9434141,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568509,
+  "lat": 18.9904739,
+  "lon": 72.9431231,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568510,
+  "lat": 18.9904455,
+  "lon": 72.9427870,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568511,
+  "lat": 18.9903993,
+  "lon": 72.9424885,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568512,
+  "lat": 18.9903709,
+  "lon": 72.9421919,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568513,
+  "lat": 18.9903567,
+  "lon": 72.9418821,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568514,
+  "lat": 18.9903301,
+  "lon": 72.9416192,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568515,
+  "lat": 18.9903141,
+  "lon": 72.9413376,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568516,
+  "lat": 18.9902857,
+  "lon": 72.9410504,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568517,
+  "lat": 18.9902626,
+  "lon": 72.9407631,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568518,
+  "lat": 18.9902342,
+  "lon": 72.9404290,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568519,
+  "lat": 18.9902023,
+  "lon": 72.9400666,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568520,
+  "lat": 18.9901721,
+  "lon": 72.9397662,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568521,
+  "lat": 18.9901544,
+  "lon": 72.9394846,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568522,
+  "lat": 18.9901277,
+  "lon": 72.9392143,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568523,
+  "lat": 18.9900851,
+  "lon": 72.9389007,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568524,
+  "lat": 18.9900691,
+  "lon": 72.9386154,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568525,
+  "lat": 18.9900319,
+  "lon": 72.9382587,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568526,
+  "lat": 18.9900052,
+  "lon": 72.9379188,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568527,
+  "lat": 18.9899733,
+  "lon": 72.9375753,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568528,
+  "lat": 18.9899449,
+  "lon": 72.9371810,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568529,
+  "lat": 18.9899289,
+  "lon": 72.9369576,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568530,
+  "lat": 18.9898881,
+  "lon": 72.9366384,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568531,
+  "lat": 18.9898543,
+  "lon": 72.9363418,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568532,
+  "lat": 18.9898313,
+  "lon": 72.9360339,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568533,
+  "lat": 18.9898046,
+  "lon": 72.9357373,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568534,
+  "lat": 18.9897762,
+  "lon": 72.9354331,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568535,
+  "lat": 18.9897478,
+  "lon": 72.9351271,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568536,
+  "lat": 18.9897123,
+  "lon": 72.9348342,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568537,
+  "lat": 18.9896910,
+  "lon": 72.9345395,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568538,
+  "lat": 18.9896662,
+  "lon": 72.9342297,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568539,
+  "lat": 18.9896360,
+  "lon": 72.9339162,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376568540,
+  "lat": 18.9896076,
+  "lon": 72.9336214,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570178,
+  "lat": 18.9973905,
+  "lon": 72.8780580,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570179,
+  "lat": 18.9974773,
+  "lon": 72.8778552,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570180,
+  "lat": 18.9976020,
+  "lon": 72.8776090,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570181,
+  "lat": 18.9977207,
+  "lon": 72.8773547,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570182,
+  "lat": 18.9978318,
+  "lon": 72.8771358,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570183,
+  "lat": 18.9979353,
+  "lon": 72.8769363,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570184,
+  "lat": 18.9980175,
+  "lon": 72.8767641,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570185,
+  "lat": 18.9981057,
+  "lon": 72.8765919,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570186,
+  "lat": 18.9982366,
+  "lon": 72.8763440,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570187,
+  "lat": 18.9983614,
+  "lon": 72.8760897,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570188,
+  "lat": 18.9984755,
+  "lon": 72.8758386,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570189,
+  "lat": 18.9985942,
+  "lon": 72.8755860,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570190,
+  "lat": 18.9987099,
+  "lon": 72.8753767,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570191,
+  "lat": 18.9987890,
+  "lon": 72.8751852,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570192,
+  "lat": 18.9989077,
+  "lon": 72.8749213,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570193,
+  "lat": 18.9990142,
+  "lon": 72.8746509,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570194,
+  "lat": 18.9991223,
+  "lon": 72.8743886,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570195,
+  "lat": 18.9992334,
+  "lon": 72.8741085,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570196,
+  "lat": 18.9993155,
+  "lon": 72.8738381,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570197,
+  "lat": 18.9994205,
+  "lon": 72.8735501,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570198,
+  "lat": 18.9995149,
+  "lon": 72.8732491,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570199,
+  "lat": 18.9996031,
+  "lon": 72.8729691,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376570200,
+  "lat": 18.9996807,
+  "lon": 72.8726890,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583101,
+  "lat": 18.9883203,
+  "lon": 72.9203419,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583102,
+  "lat": 18.9882937,
+  "lon": 72.9199791,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583103,
+  "lat": 18.9882599,
+  "lon": 72.9196572,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583104,
+  "lat": 18.9882261,
+  "lon": 72.9192101,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583105,
+  "lat": 18.9881923,
+  "lon": 72.9187426,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583106,
+  "lat": 18.9881512,
+  "lon": 72.9183977,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583107,
+  "lat": 18.9881319,
+  "lon": 72.9181013,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583108,
+  "lat": 18.9881029,
+  "lon": 72.9178101,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583109,
+  "lat": 18.9880667,
+  "lon": 72.9174805,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583110,
+  "lat": 18.9880546,
+  "lon": 72.9171714,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583111,
+  "lat": 18.9880217,
+  "lon": 72.9168597,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583112,
+  "lat": 18.9880048,
+  "lon": 72.9165865,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583113,
+  "lat": 18.9879784,
+  "lon": 72.9164252,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583114,
+  "lat": 18.9879692,
+  "lon": 72.9162579,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583115,
+  "lat": 18.9879297,
+  "lon": 72.9159521,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583116,
+  "lat": 18.9879099,
+  "lon": 72.9156479,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583117,
+  "lat": 18.9878886,
+  "lon": 72.9153598,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583118,
+  "lat": 18.9878688,
+  "lon": 72.9150846,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583119,
+  "lat": 18.9878384,
+  "lon": 72.9148866,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583120,
+  "lat": 18.9878338,
+  "lon": 72.9147450,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583121,
+  "lat": 18.9878094,
+  "lon": 72.9144441,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583122,
+  "lat": 18.9877851,
+  "lon": 72.9142718,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583123,
+  "lat": 18.9877714,
+  "lon": 72.9139950,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583124,
+  "lat": 18.9877607,
+  "lon": 72.9137922,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583125,
+  "lat": 18.9877303,
+  "lon": 72.9135347,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583126,
+  "lat": 18.9877044,
+  "lon": 72.9132434,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583127,
+  "lat": 18.9876786,
+  "lon": 72.9129360,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583128,
+  "lat": 18.9876496,
+  "lon": 72.9126319,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583129,
+  "lat": 18.9876268,
+  "lon": 72.9123438,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583130,
+  "lat": 18.9875949,
+  "lon": 72.9120315,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583131,
+  "lat": 18.9875629,
+  "lon": 72.9117258,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583132,
+  "lat": 18.9875488,
+  "lon": 72.9114775,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583133,
+  "lat": 18.9875167,
+  "lon": 72.9111332,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583134,
+  "lat": 18.9874919,
+  "lon": 72.9108035,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583135,
+  "lat": 18.9874580,
+  "lon": 72.9105204,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583136,
+  "lat": 18.9874248,
+  "lon": 72.9102051,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583137,
+  "lat": 18.9874103,
+  "lon": 72.9099291,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583138,
+  "lat": 18.9873710,
+  "lon": 72.9095962,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583139,
+  "lat": 18.9873441,
+  "lon": 72.9093027,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583140,
+  "lat": 18.9873328,
+  "lon": 72.9090386,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583141,
+  "lat": 18.9873011,
+  "lon": 72.9087253,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583142,
+  "lat": 18.9872745,
+  "lon": 72.9083984,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583143,
+  "lat": 18.9872523,
+  "lon": 72.9081183,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583144,
+  "lat": 18.9872275,
+  "lon": 72.9078189,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583145,
+  "lat": 18.9871949,
+  "lon": 72.9075044,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583146,
+  "lat": 18.9871675,
+  "lon": 72.9072174,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583147,
+  "lat": 18.9871388,
+  "lon": 72.9069208,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583148,
+  "lat": 18.9871244,
+  "lon": 72.9066255,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583149,
+  "lat": 18.9871036,
+  "lon": 72.9063137,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583150,
+  "lat": 18.9870853,
+  "lon": 72.9059978,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583151,
+  "lat": 18.9870735,
+  "lon": 72.9057081,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583152,
+  "lat": 18.9870806,
+  "lon": 72.9054044,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583153,
+  "lat": 18.9870758,
+  "lon": 72.9051266,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583154,
+  "lat": 18.9870687,
+  "lon": 72.9047979,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583155,
+  "lat": 18.9870758,
+  "lon": 72.9044731,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583156,
+  "lat": 18.9870794,
+  "lon": 72.9041671,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583157,
+  "lat": 18.9870954,
+  "lon": 72.9038667,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583158,
+  "lat": 18.9871145,
+  "lon": 72.9035697,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583159,
+  "lat": 18.9871335,
+  "lon": 72.9032693,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583160,
+  "lat": 18.9871592,
+  "lon": 72.9029642,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583161,
+  "lat": 18.9871816,
+  "lon": 72.9026614,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583162,
+  "lat": 18.9872129,
+  "lon": 72.9023515,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583163,
+  "lat": 18.9872442,
+  "lon": 72.9020499,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583164,
+  "lat": 18.9872867,
+  "lon": 72.9017602,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583165,
+  "lat": 18.9873337,
+  "lon": 72.9014550,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583166,
+  "lat": 18.9873756,
+  "lon": 72.9011512,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583167,
+  "lat": 18.9874218,
+  "lon": 72.9008527,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583168,
+  "lat": 18.9874715,
+  "lon": 72.9005598,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583169,
+  "lat": 18.9875372,
+  "lon": 72.9002538,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583170,
+  "lat": 18.9875886,
+  "lon": 72.8999703,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583171,
+  "lat": 18.9876313,
+  "lon": 72.8997375,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583172,
+  "lat": 18.9877236,
+  "lon": 72.8993695,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583173,
+  "lat": 18.9877946,
+  "lon": 72.8990654,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583174,
+  "lat": 18.9878745,
+  "lon": 72.8987875,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583175,
+  "lat": 18.9879579,
+  "lon": 72.8984815,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583176,
+  "lat": 18.9880396,
+  "lon": 72.8981905,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583177,
+  "lat": 18.9881159,
+  "lon": 72.8979108,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583178,
+  "lat": 18.9882100,
+  "lon": 72.8976179,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583179,
+  "lat": 18.9883005,
+  "lon": 72.8973231,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583180,
+  "lat": 18.9883840,
+  "lon": 72.8970378,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583181,
+  "lat": 18.9884976,
+  "lon": 72.8967411,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583182,
+  "lat": 18.9885988,
+  "lon": 72.8964708,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583183,
+  "lat": 18.9887017,
+  "lon": 72.8961816,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583184,
+  "lat": 18.9888012,
+  "lon": 72.8959019,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583185,
+  "lat": 18.9889130,
+  "lon": 72.8956241,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583186,
+  "lat": 18.9890319,
+  "lon": 72.8953443,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583187,
+  "lat": 18.9891473,
+  "lon": 72.8950721,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583188,
+  "lat": 18.9892858,
+  "lon": 72.8947886,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583189,
+  "lat": 18.9894065,
+  "lon": 72.8945182,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583190,
+  "lat": 18.9895397,
+  "lon": 72.8942310,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583191,
+  "lat": 18.9896568,
+  "lon": 72.8939719,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583192,
+  "lat": 18.9897616,
+  "lon": 72.8937748,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583193,
+  "lat": 18.9899338,
+  "lon": 72.8933899,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583194,
+  "lat": 18.9900598,
+  "lon": 72.8931440,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583195,
+  "lat": 18.9901965,
+  "lon": 72.8928624,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583196,
+  "lat": 18.9903261,
+  "lon": 72.8926202,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583197,
+  "lat": 18.9904220,
+  "lon": 72.8924024,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583198,
+  "lat": 18.9906084,
+  "lon": 72.8920419,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583199,
+  "lat": 18.9907575,
+  "lon": 72.8917584,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583200,
+  "lat": 18.9908800,
+  "lon": 72.8914731,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583201,
+  "lat": 18.9910220,
+  "lon": 72.8911952,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583202,
+  "lat": 18.9911480,
+  "lon": 72.8909248,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583203,
+  "lat": 18.9912883,
+  "lon": 72.8906357,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583204,
+  "lat": 18.9914339,
+  "lon": 72.8903597,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583205,
+  "lat": 18.9915705,
+  "lon": 72.8900988,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583206,
+  "lat": 18.9917197,
+  "lon": 72.8897984,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583207,
+  "lat": 18.9918226,
+  "lon": 72.8895900,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583208,
+  "lat": 18.9919895,
+  "lon": 72.8892464,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583209,
+  "lat": 18.9921049,
+  "lon": 72.8890211,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583210,
+  "lat": 18.9922203,
+  "lon": 72.8887883,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583211,
+  "lat": 18.9923800,
+  "lon": 72.8884617,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583212,
+  "lat": 18.9925150,
+  "lon": 72.8882007,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583213,
+  "lat": 18.9926552,
+  "lon": 72.8879153,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583214,
+  "lat": 18.9927777,
+  "lon": 72.8876562,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583215,
+  "lat": 18.9929162,
+  "lon": 72.8873859,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583216,
+  "lat": 18.9930475,
+  "lon": 72.8871099,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583217,
+  "lat": 18.9931807,
+  "lon": 72.8868339,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583218,
+  "lat": 18.9933174,
+  "lon": 72.8865636,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583219,
+  "lat": 18.9934576,
+  "lon": 72.8862876,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583220,
+  "lat": 18.9935872,
+  "lon": 72.8860210,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583221,
+  "lat": 18.9937097,
+  "lon": 72.8857507,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583222,
+  "lat": 18.9938553,
+  "lon": 72.8854352,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583223,
+  "lat": 18.9939813,
+  "lon": 72.8852212,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583224,
+  "lat": 18.9941162,
+  "lon": 72.8849396,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583225,
+  "lat": 18.9942369,
+  "lon": 72.8846786,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583226,
+  "lat": 18.9943718,
+  "lon": 72.8844158,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583227,
+  "lat": 18.9944943,
+  "lon": 72.8841286,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583228,
+  "lat": 18.9946310,
+  "lon": 72.8838545,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583229,
+  "lat": 18.9947624,
+  "lon": 72.8835728,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583230,
+  "lat": 18.9948795,
+  "lon": 72.8833062,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583231,
+  "lat": 18.9950074,
+  "lon": 72.8829890,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583232,
+  "lat": 18.9951245,
+  "lon": 72.8827543,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583233,
+  "lat": 18.9952381,
+  "lon": 72.8824933,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583234,
+  "lat": 18.9953606,
+  "lon": 72.8822230,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583235,
+  "lat": 18.9955133,
+  "lon": 72.8819357,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583236,
+  "lat": 18.9956589,
+  "lon": 72.8816297,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583237,
+  "lat": 18.9958151,
+  "lon": 72.8812955,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583238,
+  "lat": 18.9959677,
+  "lon": 72.8809688,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583239,
+  "lat": 18.9961169,
+  "lon": 72.8806703,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583240,
+  "lat": 18.9962518,
+  "lon": 72.8803775,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583241,
+  "lat": 18.9964098,
+  "lon": 72.8800789,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583242,
+  "lat": 18.9965340,
+  "lon": 72.8798011,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583243,
+  "lat": 18.9966743,
+  "lon": 72.8795157,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583244,
+  "lat": 18.9968127,
+  "lon": 72.8792247,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583245,
+  "lat": 18.9969405,
+  "lon": 72.8789713,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583246,
+  "lat": 18.9970470,
+  "lon": 72.8787516,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583247,
+  "lat": 18.9971695,
+  "lon": 72.8784850,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376583248,
+  "lat": 18.9972991,
+  "lon": 72.8782222,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584224,
+  "lat": 18.9887373,
+  "lon": 72.9245020,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584225,
+  "lat": 18.9686641,
+  "lon": 73.0064108,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584226,
+  "lat": 18.9684670,
+  "lon": 73.0065985,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584227,
+  "lat": 18.9682628,
+  "lon": 73.0067769,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584228,
+  "lat": 18.9680977,
+  "lon": 73.0069196,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584229,
+  "lat": 18.9678580,
+  "lon": 73.0071017,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376584230,
+  "lat": 18.9676467,
+  "lon": 73.0072669,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589801,
+  "lat": 18.9997736,
+  "lon": 72.8723655,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589802,
+  "lat": 18.9998557,
+  "lon": 72.8720533,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589803,
+  "lat": 18.9999181,
+  "lon": 72.8717765,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589804,
+  "lat": 18.9999653,
+  "lon": 72.8715109,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589805,
+  "lat": 19.0000125,
+  "lon": 72.8712921,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589806,
+  "lat": 19.0000612,
+  "lon": 72.8709911,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589807,
+  "lat": 19.0001114,
+  "lon": 72.8706740,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589808,
+  "lat": 19.0001510,
+  "lon": 72.8703666,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589809,
+  "lat": 19.0001920,
+  "lon": 72.8700576,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589810,
+  "lat": 19.0002225,
+  "lon": 72.8697840,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589811,
+  "lat": 19.0002453,
+  "lon": 72.8695024,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589812,
+  "lat": 19.0002697,
+  "lon": 72.8692658,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589813,
+  "lat": 19.0002849,
+  "lon": 72.8690019,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589814,
+  "lat": 19.0002955,
+  "lon": 72.8687588,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589815,
+  "lat": 19.0003077,
+  "lon": 72.8684659,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589816,
+  "lat": 19.0003062,
+  "lon": 72.8681907,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589817,
+  "lat": 19.0003031,
+  "lon": 72.8679187,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589818,
+  "lat": 19.0002986,
+  "lon": 72.8676516,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589819,
+  "lat": 19.0002986,
+  "lon": 72.8673828,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589820,
+  "lat": 19.0002834,
+  "lon": 72.8671269,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589821,
+  "lat": 19.0002773,
+  "lon": 72.8668919,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589822,
+  "lat": 19.0002620,
+  "lon": 72.8666505,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589823,
+  "lat": 19.0002377,
+  "lon": 72.8664236,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589824,
+  "lat": 19.0002149,
+  "lon": 72.8661950,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589825,
+  "lat": 19.0001905,
+  "lon": 72.8659504,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589826,
+  "lat": 19.0001692,
+  "lon": 72.8657074,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589827,
+  "lat": 19.0001403,
+  "lon": 72.8654933,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589828,
+  "lat": 19.0001053,
+  "lon": 72.8652873,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589829,
+  "lat": 19.0000734,
+  "lon": 72.8650556,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589830,
+  "lat": 19.0000475,
+  "lon": 72.8648721,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589831,
+  "lat": 19.0000110,
+  "lon": 72.8646774,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589832,
+  "lat": 18.9999744,
+  "lon": 72.8644874,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589833,
+  "lat": 18.9999288,
+  "lon": 72.8642798,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589834,
+  "lat": 18.9998801,
+  "lon": 72.8640593,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589835,
+  "lat": 18.9998284,
+  "lon": 72.8638727,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589836,
+  "lat": 18.9997644,
+  "lon": 72.8636377,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589837,
+  "lat": 18.9997036,
+  "lon": 72.8633979,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589838,
+  "lat": 18.9996473,
+  "lon": 72.8631742,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589839,
+  "lat": 18.9995849,
+  "lon": 72.8629794,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589840,
+  "lat": 18.9995286,
+  "lon": 72.8627702,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589841,
+  "lat": 18.9994692,
+  "lon": 72.8625674,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589842,
+  "lat": 18.9993931,
+  "lon": 72.8623437,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589843,
+  "lat": 18.9993140,
+  "lon": 72.8621103,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589844,
+  "lat": 18.9992440,
+  "lon": 72.8619269,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589845,
+  "lat": 18.9991573,
+  "lon": 72.8616919,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589846,
+  "lat": 18.9990797,
+  "lon": 72.8614955,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589847,
+  "lat": 18.9990051,
+  "lon": 72.8612751,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589848,
+  "lat": 18.9989001,
+  "lon": 72.8610015,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589849,
+  "lat": 18.9988149,
+  "lon": 72.8607552,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589850,
+  "lat": 18.9987129,
+  "lon": 72.8605154,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589851,
+  "lat": 18.9986323,
+  "lon": 72.8602998,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589852,
+  "lat": 18.9985562,
+  "lon": 72.8601034,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589853,
+  "lat": 18.9984557,
+  "lon": 72.8598556,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589854,
+  "lat": 18.9983538,
+  "lon": 72.8596158,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589855,
+  "lat": 18.9982610,
+  "lon": 72.8593920,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589856,
+  "lat": 18.9977343,
+  "lon": 72.8580971,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589857,
+  "lat": 18.9978880,
+  "lon": 72.8584769,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589858,
+  "lat": 18.9980980,
+  "lon": 72.8589887,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589859,
+  "lat": 18.9975623,
+  "lon": 72.8576899,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12376589860,
+  "lat": 18.9974253,
+  "lon": 72.8573600,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985745,
+  "lat": 18.9674384,
+  "lon": 73.0074522,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985746,
+  "lat": 18.9526780,
+  "lon": 73.0171599,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985747,
+  "lat": 18.9523432,
+  "lon": 73.0179028,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985748,
+  "lat": 18.9521605,
+  "lon": 73.0183025,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985749,
+  "lat": 18.9517115,
+  "lon": 73.0192305,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12380985750,
+  "lat": 18.9515365,
+  "lon": 73.0196007,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "source": "Esri World Imagery (2023-09-07)"
+  }
+},
+{
+  "type": "node",
+  "id": 12411907763,
+  "lat": 19.1450298,
+  "lon": 72.8236211,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272406,
+  "lat": 19.1435905,
+  "lon": 72.8243635,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272408,
+  "lat": 19.1433475,
+  "lon": 72.8244969,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272468,
+  "lat": 19.1439734,
+  "lon": 72.8241555,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272486,
+  "lat": 19.1438268,
+  "lon": 72.8242448,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272494,
+  "lat": 19.1431455,
+  "lon": 72.8246141,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12423272512,
+  "lat": 19.1441962,
+  "lon": 72.8240221,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 12445990353,
+  "lat": 19.1427208,
+  "lon": 72.8248569,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12445990356,
+  "lat": 19.1425255,
+  "lon": 72.8249648,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12445990394,
+  "lat": 19.1429288,
+  "lon": 72.8247358,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486481899,
+  "lat": 19.1420908,
+  "lon": 72.8252115,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490030,
+  "lat": 19.1404036,
+  "lon": 72.8261343,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490045,
+  "lat": 19.1408058,
+  "lon": 72.8259243,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490089,
+  "lat": 19.1410102,
+  "lon": 72.8258139,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490139,
+  "lat": 19.1418835,
+  "lon": 72.8253310,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490165,
+  "lat": 19.1415024,
+  "lon": 72.8255506,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490185,
+  "lat": 19.1414339,
+  "lon": 72.8255803,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12486490197,
+  "lat": 19.1405824,
+  "lon": 72.8260393,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12500926749,
+  "lat": 19.1435597,
+  "lon": 72.8242534,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12675784434,
+  "lat": 19.0127191,
+  "lon": 72.8248105,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12902697034,
+  "lat": 18.9488511,
+  "lon": 72.8403557,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 12902697035,
+  "lat": 18.9488820,
+  "lon": 72.8403583,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 12902697036,
+  "lat": 18.9489034,
+  "lon": 72.8404146,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 12902697037,
+  "lat": 18.9488481,
+  "lon": 72.8404045,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 12944568385,
+  "lat": 19.0532650,
+  "lon": 72.9004576,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944694339,
+  "lat": 19.0542906,
+  "lon": 72.9005153,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944694340,
+  "lat": 19.0545924,
+  "lon": 72.9005272,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944711412,
+  "lat": 19.0548483,
+  "lon": 72.9005265,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944721315,
+  "lat": 19.0551175,
+  "lon": 72.9005267,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944721316,
+  "lat": 19.0553235,
+  "lon": 72.9005321,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12944721318,
+  "lat": 19.0556021,
+  "lon": 72.9005413,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 12974666391,
+  "lat": 19.0483189,
+  "lon": 72.8202187,
+  "tags": {
+    "highway": "street_lamp",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 12974675243,
+  "lat": 19.0506201,
+  "lon": 72.8214652,
+  "tags": {
+    "highway": "street_lamp",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 13240703005,
+  "lat": 19.1296439,
+  "lon": 72.8221110,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "electric"
+  }
+},
+{
+  "type": "node",
+  "id": 13249404073,
+  "lat": 19.3123899,
+  "lon": 72.8530488,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375690178,
+  "lat": 19.1209771,
+  "lon": 72.9986976,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375691892,
+  "lat": 19.1200352,
+  "lon": 72.9982996,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375692878,
+  "lat": 19.1201948,
+  "lon": 72.9983731,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375711850,
+  "lat": 19.1208384,
+  "lon": 72.9986197,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375727567,
+  "lat": 19.1211744,
+  "lon": 72.9987801,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375728139,
+  "lat": 19.1206266,
+  "lon": 72.9985464,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13375735341,
+  "lat": 19.1203751,
+  "lon": 72.9984480,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 13514277020,
+  "lat": 18.9328090,
+  "lon": 72.8320534,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "bent_mast",
+    "lamp_type": "led",
+    "light:count": "2",
+    "light:direction": "294",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 13597205736,
+  "lat": 19.1414462,
+  "lon": 72.8253604,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "high_mast",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 13760573107,
+  "lat": 19.1718536,
+  "lon": 72.9418504,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "electric",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 13760573113,
+  "lat": 19.1722137,
+  "lon": 72.9411659,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "electric",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 13785164434,
+  "lat": 19.1456472,
+  "lon": 72.8265133,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13785164473,
+  "lat": 19.1457950,
+  "lon": 72.8264478,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13866528420,
+  "lat": 19.0717738,
+  "lon": 72.9992765,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "electric",
+    "support": "pole"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621112,
+  "lat": 19.1451522,
+  "lon": 72.8268402,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621113,
+  "lat": 19.1447414,
+  "lon": 72.8270529,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621134,
+  "lat": 19.1448866,
+  "lon": 72.8269762,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621143,
+  "lat": 19.1445139,
+  "lon": 72.8271888,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621146,
+  "lat": 19.1446801,
+  "lon": 72.8270999,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621160,
+  "lat": 19.1446307,
+  "lon": 72.8271291,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621167,
+  "lat": 19.1449828,
+  "lon": 72.8269239,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621211,
+  "lat": 19.1450920,
+  "lon": 72.8268760,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 13950621230,
+  "lat": 19.1448030,
+  "lon": 72.8270128,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_mount": "pole",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 14058526749,
+  "lat": 19.1115355,
+  "lon": 72.8456788,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 14058526754,
+  "lat": 19.1115834,
+  "lon": 72.8456483,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 14058526756,
+  "lat": 19.1116981,
+  "lon": 72.8457012,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 14058526769,
+  "lat": 19.1117000,
+  "lon": 72.8456655,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led",
+    "light:count": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 14180566802,
+  "lat": 19.1472748,
+  "lon": 72.8295081,
+  "tags": {
+    "highway": "street_lamp",
+    "lamp_type": "led"
+  }
+},
+{
+  "type": "node",
+  "id": 14264512385,
+  "lat": 19.4515792,
+  "lon": 72.8138894,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264512666,
+  "lat": 19.4520009,
+  "lon": 72.8151239,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264532132,
+  "lat": 19.4517714,
+  "lon": 72.8142257,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264537150,
+  "lat": 19.4522079,
+  "lon": 72.8142916,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264542174,
+  "lat": 19.4518251,
+  "lon": 72.8145108,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264557864,
+  "lat": 19.4517130,
+  "lon": 72.8142971,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264562939,
+  "lat": 19.4516244,
+  "lon": 72.8140902,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264562940,
+  "lat": 19.4520074,
+  "lon": 72.8142059,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264582008,
+  "lat": 19.4523258,
+  "lon": 72.8144397,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264582908,
+  "lat": 19.4519122,
+  "lon": 72.8148356,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264615051,
+  "lat": 19.4515694,
+  "lon": 72.8142442,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264659549,
+  "lat": 19.4516304,
+  "lon": 72.8138194,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264660867,
+  "lat": 19.4514955,
+  "lon": 72.8132776,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14264660988,
+  "lat": 19.4515342,
+  "lon": 72.8135215,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266612164,
+  "lat": 19.4568689,
+  "lon": 72.8130943,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266636980,
+  "lat": 19.4547271,
+  "lon": 72.8126164,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266698122,
+  "lat": 19.4519511,
+  "lon": 72.8131992,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266715726,
+  "lat": 19.4549942,
+  "lon": 72.8126082,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266775122,
+  "lat": 19.4541982,
+  "lon": 72.8126203,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266777887,
+  "lat": 19.4514189,
+  "lon": 72.8132851,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266778199,
+  "lat": 19.4510024,
+  "lon": 72.8134053,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14266778740,
+  "lat": 19.4544814,
+  "lon": 72.8126124,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14283411652,
+  "lat": 19.4535609,
+  "lon": 72.8128889,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14283418660,
+  "lat": 19.4528700,
+  "lon": 72.8129351,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14283443986,
+  "lat": 19.4532260,
+  "lon": 72.8128964,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "node",
+  "id": 14283453008,
+  "lat": 19.4536975,
+  "lon": 72.8127491,
+  "tags": {
+    "highway": "street_lamp"
+  }
+}
+
+  ]
+}

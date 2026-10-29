@@ -1,0 +1,26 @@
+# Render Blueprint: one free web service serves both the API (/api) and the built React app.
+# Render dashboard → New → Blueprint → pick this repo. You will be asked for the values marked sync: false.
+services:
+  - type: web
+    name: streetlight-monitor
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: npm --prefix server install && npm --prefix client install --include=dev && npm --prefix client run build
+    startCommand: npm --prefix server start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 22
+      - key: MONGODB_URI
+        sync: false # MongoDB Atlas connection string
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 1d
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false

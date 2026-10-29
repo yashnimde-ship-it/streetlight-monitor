@@ -1,0 +1,15 @@
+{
+  "name": "streetlight-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web-based urban streetlight monitoring system for sustainable energy management",
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n api,web -c blue,green \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "seed": "npm --prefix server run seed",
+    "build": "npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
