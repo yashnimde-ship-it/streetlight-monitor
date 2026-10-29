@@ -321,7 +321,7 @@ Open **http://localhost:5173** and log in with the development account `admin@st
 
 The app deploys as **one free Render web service**: Express serves the API under `/api` and the built React app for every other path.
 
-1. **Render:** *New → Blueprint* → select this repository. [`render.yaml`](render.yaml) configures everything; Render only asks for `ADMIN_PASSWORD` (the live-site login; email `admin@streetlight.local`) and generates `JWT_SECRET`.
+1. **Render:** *New → Blueprint* → select this repository. [`render.yaml`](render.yaml) configures everything; Nothing needs to be entered: Render generates `JWT_SECRET` and a random `ADMIN_PASSWORD` (find it in the service's *Environment* tab; login email `admin@streetlight.local`).
 2. The site is live at `https://<service>.onrender.com` once the build finishes and the dataset has loaded.
 
 **Database modes**

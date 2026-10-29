@@ -1,5 +1,5 @@
 # Render Blueprint: one free web service serves both the API (/api) and the built React app.
-# Render dashboard → New → Blueprint → pick this repo. You will be asked for the values marked sync: false.
+# Render dashboard → New → Blueprint → pick this repo. No values need to be entered.
 #
 # Database: by default the service runs a temporary in-memory MongoDB and reseeds the full dataset on every
 # start (no external database needed; edits are lost on restart or when the free instance sleeps).
@@ -27,4 +27,4 @@ services:
       - key: ADMIN_EMAIL
         value: admin@streetlight.local
       - key: ADMIN_PASSWORD
-        sync: false # password for logging in to the live site
+        generateValue: true # random login password; see the service's Environment tab
